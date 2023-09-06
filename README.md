@@ -11,7 +11,7 @@ This Python project leverages the power of Pandas, GeoPandas, Matplotlib, and Py
 # Getting Started:
 1. Clone this repository to your local machine.
 2. Install the required libraries using pip install -r requirements.txt.
-3. Run the Jupyter notebooks or Python scripts provided to explore and visualize the population density data.
+3. Run the Jupyter notebooks or Python scripts provided to explore and visualize the population density data (but i used Spyder(IDE) as its directed more to data science and allows for visual representations on dataframes..ect)
 
    
 # Usage:
